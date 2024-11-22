@@ -1,4 +1,4 @@
-#### Porównanie zabezpieczeń przed cyberatakami na platformach gamingowych: Steam, Epic Games, PlayStation, Xbox i Nintendo
+### Porównanie zabezpieczeń przed cyberatakami na platformach gamingowych: Steam, Epic Games, PlayStation, Xbox i Nintendo
 
 **1. Steam**
 - **Uwierzytelnianie dwuskładnikowe (2FA):** Steam oferuje funkcję Steam Guard, która dodaje dodatkową warstwę ochrony poprzez kod weryfikacyjny wysyłany na zarejestrowany adres e-mail lub generowany w aplikacji mobilnej Steam. 
@@ -28,7 +28,7 @@
 **Podsumowanie**
 Wszystkie wymienione platformy oferują mechanizmy zwiększające bezpieczeństwo kont użytkowników, takie jak uwierzytelnianie dwuskładnikowe i powiadomienia o logowaniach z nowych urządzeń. Kluczowe jest, aby użytkownicy aktywowali dostępne zabezpieczenia i stosowali unikalne, silne hasła, co znacząco zmniejsza ryzyko nieautoryzowanego dostępu do kont. 
 
-####Która platforma oferuje najlepsze mechanizmy ochrony danych i transakcji?
+### Która platforma oferuje najlepsze mechanizmy ochrony danych i transakcji?
 
 Wśród platform gamingowych, **Steam** wyróżnia się zaawansowanymi mechanizmami ochrony danych i transakcji.
 
@@ -51,7 +51,7 @@ Wśród platform gamingowych, **Steam** wyróżnia się zaawansowanymi mechanizm
 
 Choć inne platformy, takie jak Epic Games, PlayStation, Xbox czy Nintendo, również implementują różnorodne środki bezpieczeństwa, to kompleksowe podejście Steam do ochrony danych i transakcji, w połączeniu z zaawansowanymi funkcjami zabezpieczeń, czyni ją liderem w tej dziedzinie.
 
-####Co czyni Steam lepszym? Czego brakuje pozostałym platformom?
+### Co czyni Steam lepszym? Czego brakuje pozostałym platformom?
 
 Steam wyróżnia się na tle innych platform gamingowych dzięki kilku kluczowym funkcjom i podejściom do bezpieczeństwa:
 
