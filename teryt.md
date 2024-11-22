@@ -22,5 +22,6 @@ Połączenie części praktycznej (pobranie danych z rejestru TERYT) z teoretycz
      - Projektowanie bardziej lokalnych, bezpiecznych strategii dla użytkowników.
    - Połączenie teorii (zagrożenia bezpieczeństwa) z praktyką (analiza lokalizacji i użytkowników).
 
-#### Dodatkowy akcent:
-Można wspomnieć o tym, że takie połączenie danych teoretycznych i geograficznych ma również zastosowanie komercyjne, np. w lepszym targetowaniu reklam przez platformy czy planowaniu serwerów w nowych regionach.
+#### O czym jeszcze wspomnieć:
+   - takie połączenie danych teoretycznych i geograficznych ma również zastosowanie komercyjne, np. w lepszym targetowaniu reklam przez platformy czy planowaniu serwerów w nowych regionach.
+   - wysłano maila z prośbą o udostępnienie interfejsów API, nie otrzymano odpowiedzi.
