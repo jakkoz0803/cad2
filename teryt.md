@@ -1,6 +1,6 @@
 Połączenie części praktycznej (pobranie danych z rejestru TERYT) z teoretyczną (bezpieczeństwo platform do gier) można oprzeć na przykładzie zastosowania danych geograficznych w analizie bezpieczeństwa gier online.
 
-#### 1. **Praktyczne połączenie: Dane z rejestru TERYT w analizie geograficznej**
+#### 1. **Dane z rejestru TERYT w analizie geograficznej**
    - **Kontekst:** Przedstawienie rejestru TERYT jako narzędzia do precyzyjnego mapowania jednostek terytorialnych.
    - **Praktyczny przykład:**
      - Pobranie danych z TERYT dotyczących podziału administracyjnego w Polsce.
@@ -9,7 +9,7 @@ Połączenie części praktycznej (pobranie danych z rejestru TERYT) z teoretycz
      - Analiza, które regiony Polski mają największą aktywność graczy na platformach, np. Steam czy Epic Games.
      - Identyfikacja regionów z największą liczbą zgłoszeń problemów związanych z bezpieczeństwem (np. phishing, kradzież kont).
 
-#### 2. **Warsztat: Geolokalizacja i bezpieczeństwo**
+#### 2. **Geolokalizacja i bezpieczeństwo**
    - Praktyczne ćwiczenie z uczestnikami:
      - Pobranie danych z rejestru TERYT (np. lista miejscowości w wybranych regionach).
      - Wizualizacja tych danych na mapie w kontekście potencjalnych zagrożeń dla platform gamingowych w różnych częściach kraju.
